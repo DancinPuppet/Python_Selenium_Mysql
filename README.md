@@ -1,0 +1,2 @@
+# Python_Selenium_Mysql
+利用Selenium Webdriver爬取某外网页面中详情页的数据，通过Pymysql的建库建表添加查询操作将文本数据和图片存储到MySQL中，最后读取Blob二进制形式数据到本地保存为图片和txt，有兴趣的小伙伴可以共同探讨！
